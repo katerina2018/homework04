@@ -1,0 +1,49 @@
+body{
+    background: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #fff;
+}
+
+.block{
+    width: 300px;
+    margin: 10px auto;
+    height: 150px;
+   
+}
+.align_bott{
+padding-top: 80px;
+height: 70px;
+
+
+}
+
+
+.block img {
+ padding-left:20px ;
+
+}
+.ver_reg_all{
+text-transform: uppercase;
+
+}
+a{
+    text-decoration: none;
+}
+
+a:visited{
+color: #00c8fc;
+text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: underline;
+    
+}
+
+
+.ver_reg_first {
+    text-transform: capitalize;
+
+}
