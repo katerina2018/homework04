@@ -1,0 +1,63 @@
+body{
+
+    font-family: 'Courier New', Courier, monospace;
+}
+.uppercase{
+text-transform: uppercase;
+
+}
+
+ul li {display:inline-block;}
+a{
+color: #fff;
+text-decoration: none;
+
+}
+table{
+width: 100%;
+border-spacing: 0px;
+
+}
+.zagolovok{
+color: #00387f;
+padding-top: 30px;
+font-size: 18px;
+
+}
+
+.pict{
+    padding-top: 50px;
+
+}
+.pict img{
+
+
+}
+
+.siniyu{
+    background:#0752a5;
+}
+
+.beluu{
+color: #fff;
+font-weight: bold;
+
+}
+.beluu_ymen{
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: bold;
+
+
+}
+
+.ris_ymen{
+border: 2px solid #fff ;
+border-radius:100px; 
+
+}
+a:hover{
+color: #114c8e;
+text-shadow: 2px 2px 5px #fff;
+
+}
